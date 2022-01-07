@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>First Try</title>
+</head>
+<body>
+    <h1>Hüseyin Kaplan</h1>
+    <h2>Hakkımda</h2>
+    <p>Merhaba ben Hüseyin Kaplan. İzmir'de yaşıyorum. Bilimkurgu izlemeyi ve okumayı çok seviyorum. Tam bir
+        İnterstellar hayranıyım. Web geliştirme ile ilgileniyorum. Kodluyoruz'un bu eğitim serisi sayesinde
+        harika şeyler öğrendim ve öğrenmeye devam ediyorum. Siz de aramıza katılın.
+    </p>
+    <h2>Sevdiğim Filmler</h2>
+    <h3>İnterstellar</h3>
+    <p>İnterstellar 2014 yılında Cristopher Nolan tarfından yazılıp yönetilmiş bir filmdir. Filmde bir grup
+        astronotun bir solucan deliğinden geçerek insanların yaşayabileceği yeni bir yer arayışı konu 
+        edilmektedir.
+    </p>
+    <p>Bu filmde en çok dikkat çeken Cooper isimli astronotun insanlık yararına bir şeyler yapabilmek için 
+        ailesini arkasında bırakması ve onların arasında geçen duygu durumlarıdır. Bunun yanısıra dünya 
+        çökme noktasına gelmişken gerek dünyada gerekse de uzayda astronotlar arasında yaşanan olaylar 
+        filmin genelini oluşturmaktadır.
+    </p>
+</body>
+</html>
