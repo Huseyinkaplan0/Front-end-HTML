@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kodluyoruz</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <article>
+            <h2>Birinci Yazı</h2>
+            <img src="https://picsum.photos/id/248/200/300" alt="">
+            <p>Lorem ipsum dolor sit amet consectetur.</p>
+            <p>Numquam ipsum ipsa animi quae voluptate.</p>
+            <p>Alias repellat fugit praesentium error autem.</p>
+            <p>Dolorem eos corrupti vitae nobis impedit.</p>
+            <ol>
+                <li>Lorem ipsum dolor sit amet consectetur.</li>
+                <li>Inventore at repellendus modi provident asperiores.</li>
+                <li>Fugiat in nam aliquam omnis placeat.</li>
+                <li>Quisquam itaque modi atque repellat labore.</li>
+            </ol>
+        </article>
+        <article>
+            <h2>İkinci Yazı</h2>
+            <img src="https://picsum.photos/id/57/200/300" alt="">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur deleniti perspiciatis iste nobis eius repudiandae.</p>
+            <p>Ea asperiores odio eveniet amet. Recusandae tempora accusantium perferendis cupiditate possimus iure reiciendis dolorem maiores.</p>
+            <p>Ab officia quas vero odio natus delectus, debitis voluptas dolore, consequuntur sed autem saepe rem?</p>
+            <p>Quaerat, excepturi amet. Recusandae id laudantium unde suscipit atque tempore animi repellendus, eum vel delectus.</p>
+            <ul>
+                <li>Lorem ipsum dolor sit amet.</li>
+                <li>Odit magnam impedit consequatur quis?</li>
+                <li>Ipsam reprehenderit dolores laborum dolor.</li>
+                <li>Hic perspiciatis incidunt sed eaque.</li>
+            </ul>
+            <hr>
+        </article>
+        <article>
+            <h2>Üçüncü Yazı</h2>
+            <img src="https://picsum.photos/id/67/200/300" alt="">
+            <p>Lorem ipsum dolor sit.</p>
+            <p>Fugit ipsum dolorem eum?</p>
+            <p>Dolore voluptatum officiis possimus!</p>
+            <p>Qui minima magnam natus.</p>
+            <hr>
+        </article>
+    </section>
+
+    <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
